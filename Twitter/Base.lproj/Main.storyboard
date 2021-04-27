@@ -122,9 +122,9 @@
                                     </constraints>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <outlet property="favButton" destination="xak-V1-tPc" id="cUG-69-xxp"/>
+                                    <outlet property="favButton" destination="jqK-Qz-ycf" id="Tep-iM-V9g"/>
                                     <outlet property="profileImageView" destination="HAX-a3-KBL" id="nRG-0c-Zx3"/>
-                                    <outlet property="retweetButton" destination="jqK-Qz-ycf" id="hNt-r3-fJ9"/>
+                                    <outlet property="retweetButton" destination="xak-V1-tPc" id="OZT-eG-cOd"/>
                                     <outlet property="tweetContent" destination="m3C-MY-Ucv" id="rGv-Ay-0YU"/>
                                     <outlet property="userNameLabel" destination="TTh-5Z-JHU" id="Ucu-ay-mv0"/>
                                 </connections>
